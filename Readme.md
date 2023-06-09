@@ -1,8 +1,8 @@
-# gollyx-klein-pelican-theme
+# gollyx-ii-pelican-theme
 
-Pelican theme for the the GollyX Klein Cup website.
+Pelican theme for the the Hellmouth Cup II website.
 
-Basically a clone of <https://github.com/golly-splorts/golly-toroidal-theme> with some minor tweaks.
+Basically a clone of <https://github.com/golly-splorts/golly-klein-theme> with some minor tweaks.
 
 The Pelican theme consists of all elements of the UI that are common to
 all pages of the Golly UI.
@@ -15,17 +15,17 @@ To install the theme:
 git clone <this repo>
 
 # If theme is not installed, install it
-pelican-themes -i gollyx-klein-pelican-theme
+pelican-themes -i gollyx-ii-pelican-theme
 
 # If theme is installed, update it
-pelican-themes -U gollyx-klein-pelican-theme
+pelican-themes -U gollyx-ii-pelican-theme
 ```
 
 ## Usage
 
-To use this Pelican theme, set the theme to `gollyx-klein-pelican-theme`
+To use this Pelican theme, set the theme to `gollyx-ii-pelican-theme`
 in `pelican.conf`.
 
 ```
-THEME = 'gollyx-klein-pelican-theme'
+THEME = 'gollyx-ii-pelican-theme'
 ```
